@@ -1,0 +1,10 @@
+from geopy.geocoders import Nominatim
+ 
+
+geoLoc = Nominatim(user_agent="GetLoc")
+ 
+
+locname = geoLoc.reverse("x, y")
+ 
+
+print(locname.address)

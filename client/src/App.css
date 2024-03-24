@@ -1,0 +1,70 @@
+html {
+  overflow :auto;
+  height : 100%;
+  width : 100%;
+}
+body {
+  overflow :auto;
+  height : 100%;
+  width : 100%;
+}
+h1{
+  text-align: center;
+}
+
+/* .nav-link{
+  overflow : auto;
+  height : 100%;
+  width : 100%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(97, 98, 100) 0%, rgb(171, 171, 199) 35%, rgb(194, 234, 241) 100%);
+} */
+#root {
+  height : 100%;
+  width : 100%;
+}
+.container {
+  overflow : auto;
+  height : 100%;
+  width : 100%;
+}
+.app {
+  overflow : auto;
+  height : 100%;
+  width : 100%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(103, 205, 240) 0%, rgb(86, 226, 222) 35%, rgb(50, 191, 170) 100%);
+}
+.overlays{
+  border-radius: 25 px;
+}
+.img-home {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.btn-sos {
+  display: inline-block !important;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  /* float: right !important; */
+}
+.btn-flex {
+  display: inline-block !important;
+  position: relative;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+.btn-loc {
+  display: inline-block !important;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 640px) {
+  .btn-flex {
+    margin-top: 130px;
+  }
+}

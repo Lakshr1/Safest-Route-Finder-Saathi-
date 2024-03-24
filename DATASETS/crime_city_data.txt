@@ -1,0 +1,420 @@
+Rank
+City
+Crime Index
+Safety Index
+1	Caracas, Venezuela	83.6	16.4
+2	Pretoria, South Africa	82.0	18.0
+3	Durban, South Africa	81.0	19.0
+4	Port Moresby, Papua New Guinea	80.7	19.3
+5	Johannesburg, South Africa	80.7	19.3
+6	San Pedro Sula, Honduras	80.5	19.5
+7	Kabul, Afghanistan	79.8	20.2
+8	Rio de Janeiro, Brazil	77.6	22.4
+9	Fortaleza, Brazil	77.3	22.7
+10	Natal, Brazil	77.2	22.8
+11	Port Elizabeth, South Africa	76.9	23.1
+12	Salvador, Brazil	76.6	23.4
+13	Recife, Brazil	76.4	23.6
+14	Port of Spain, Trinidad And Tobago	76.2	23.8
+15	Baltimore, MD, United States	75.5	24.5
+16	Rosario, Argentina	75.2	24.8
+17	Alice Springs, Australia	74.8	25.2
+18	Memphis, TN, United States	74.8	25.2
+19	Detroit, MI, United States	74.1	25.9
+20	Cape Town, South Africa	73.6	26.4
+21	Porto Alegre, Brazil	72.4	27.6
+22	Guayaquil, Ecuador	71.6	28.4
+23	Albuquerque, NM, United States	71.5	28.5
+24	Tijuana, Mexico	71.4	28.6
+25	Lima, Peru	70.9	29.1
+26	Kingston, Jamaica	70.9	29.1
+27	Saint Louis, MO, United States	70.6	29.4
+28	Sao Paulo, Brazil	70.5	29.5
+29	Cali, Colombia	70.2	29.8
+30	Damascus, Syria	70.0	30.0
+31	Bradford, United Kingdom	69.2	30.8
+32	Windhoek, Namibia	68.6	31.4
+33	Mexico City, Mexico	68.5	31.5
+34	San Juan, Puerto Rico	68.4	31.6
+35	New Orleans, LA, United States	67.6	32.4
+36	Rockhampton, Australia	67.6	32.4
+37	Lagos, Nigeria	67.5	32.5
+38	Oakland, CA, United States	67.4	32.6
+39	Santo Domingo, Dominican Republic	67.2	32.8
+40	Milwaukee, WI, United States	67.1	32.9
+41	Campinas, Brazil	66.8	33.2
+42	San Salvador, El Salvador	66.2	33.8
+43	Chicago, IL, United States	66.1	33.9
+44	Bogota, Colombia	66.0	34.0
+45	Manila, Philippines	65.4	34.6
+46	Philadelphia, PA, United States	64.9	35.1
+47	Marseille, France	64.7	35.3
+48	Cleveland, OH, United States	64.0	36.0
+49	Catania, Italy	63.9	36.1
+50	Houston, TX, United States	63.8	36.2
+51	Guatemala City, Guatemala	63.8	36.2
+52	Belo Horizonte, Brazil	63.7	36.3
+53	Coventry, United Kingdom	63.6	36.4
+54	Atlanta, GA, United States	63.5	36.5
+55	Buenos Aires, Argentina	63.3	36.7
+56	Almaty, Kazakhstan	63.3	36.7
+57	Quezon City, Philippines	63.2	36.8
+58	Dhaka, Bangladesh	63.2	36.8
+59	Lethbridge, AB, Canada	63.1	36.9
+60	Kuala Lumpur, Malaysia	63.0	37.0
+61	Surrey, Canada	63.0	37.0
+62	Nantes, France	62.9	37.1
+63	Guadalajara, Mexico	62.7	37.3
+64	Male, Maldives	62.6	37.4
+65	Birmingham, United Kingdom	62.6	37.4
+66	Curitiba, Brazil	62.5	37.5
+67	Tripoli, Libya	62.5	37.5
+68	Anchorage, AK, United States	62.3	37.7
+69	Cairns, Australia	61.7	38.3
+70	Kelowna, Canada	61.7	38.3
+71	Naples, Italy	61.7	38.3
+72	Red Deer, Canada	61.6	38.4
+73	Quito, Ecuador	61.5	38.5
+74	Cordoba, Argentina	61.2	38.8
+75	Santiago, Chile	61.2	38.8
+76	San Francisco, CA, United States	61.1	38.9
+77	Harare, Zimbabwe	60.6	39.4
+78	Montpellier, France	60.5	39.5
+79	Darwin, Australia	60.4	39.6
+80	Liege, Belgium	60.4	39.6
+81	Sudbury, Canada	60.2	39.8
+82	Ghaziabad, India	60.1	39.9
+83	Washington, DC, United States	60.1	39.9
+84	Nice, France	60.1	39.9
+85	Brasilia, Brazil	59.9	40.1
+86	Puebla, Mexico	59.7	40.3
+87	Nairobi, Kenya	59.3	40.7
+88	Delhi, India	59.2	40.8
+89	Indianapolis, IN, United States	58.9	41.1
+90	Sault Ste. Marie, Canada	58.9	41.1
+91	Baghdad, Iraq	58.9	41.1
+92	Winnipeg, Canada	58.8	41.2
+93	Klang, Malaysia	58.4	41.6
+94	Kansas City, MO, United States	58.1	41.9
+95	Minsk, Belarus	57.7	42.3
+96	Townsville, Australia	57.4	42.6
+97	Grenoble, France	57.4	42.6
+98	Louisville, KY, United States	57.3	42.7
+99	Jacksonville, FL, United States	57.1	42.9
+100	Cancun, Mexico	56.9	43.1
+101	Paris, France	56.9	43.1
+102	Oshawa, Canada	56.5	43.5
+103	Toowoomba, Australia	56.4	43.6
+104	Tehran, Iran	55.9	44.1
+105	Athens, Greece	55.9	44.1
+106	Montevideo, Uruguay	55.8	44.2
+107	San Jose, Costa Rica	55.7	44.3
+108	Malmo, Sweden	55.7	44.3
+109	Geelong, Australia	55.6	44.4
+110	Phnom Penh, Cambodia	55.4	44.6
+111	Manchester, United Kingdom	55.4	44.6
+112	Hamilton, Canada	55.3	44.7
+113	Minneapolis, MN, United States	55.3	44.7
+114	Noida, India	55.3	44.7
+115	Medellin, Colombia	55.2	44.8
+116	Las Vegas, NV, United States	55.2	44.8
+117	Johor Bahru, Malaysia	54.9	45.1
+118	Brampton, Canada	54.8	45.2
+119	Casablanca, Morocco	54.6	45.4
+120	Ulaanbaatar, Mongolia	54.6	45.4
+121	Brussels, Belgium	54.6	45.4
+122	Bangalore, India	54.6	45.4
+123	Portland, OR, United States	54.6	45.4
+124	Kamloops, Canada	54.6	45.4
+125	Amadora, Portugal	54.6	45.4
+126	Karachi, Pakistan	54.5	45.5
+127	Gurgaon, India	54.3	45.7
+128	London, United Kingdom	53.8	46.2
+129	Drogheda, Ireland	53.6	46.4
+130	Phoenix, AZ, United States	53.6	46.4
+131	Thessaloniki, Greece	53.5	46.5
+132	Ballarat, Australia	53.2	46.8
+133	Odessa (Odesa), Ukraine	53.1	46.9
+134	Bilbao, Spain	53.0	47.0
+135	London, Canada	53.0	47.0
+136	Rome, Italy	53.0	47.0
+137	Lyon, France	52.8	47.2
+138	Seattle, WA, United States	52.8	47.2
+139	Jakarta, Indonesia	52.7	47.3
+140	Dnipro, Ukraine	52.7	47.3
+141	Algiers, Algeria	52.6	47.4
+142	Miami, FL, United States	52.6	47.4
+143	Regina, Canada	52.5	47.5
+144	Ho Chi Minh City, Vietnam	52.5	47.5
+145	Los Angeles, CA, United States	52.2	47.8
+146	Dublin, Ireland	52.1	47.9
+147	Turin, Italy	52.1	47.9
+148	Lille, France	51.9	48.1
+149	Cebu, Philippines	51.9	48.1
+150	San Miguel de Allende, Mexico	51.8	48.2
+151	Wollongong, Australia	51.7	48.3
+152	Asuncion, Paraguay	51.6	48.4
+153	Orlando, FL, United States	51.5	48.5
+154	Tucson, AZ, United States	51.5	48.5
+155	Rennes, France	51.3	48.7
+156	Dallas, TX, United States	51.1	48.9
+157	Nanaimo, BC, Canada	50.9	49.1
+158	Bari, Italy	50.7	49.3
+159	Petaling Jaya, Malaysia	50.4	49.6
+160	Nottingham, United Kingdom	50.4	49.6
+161	Florianopolis, Brazil	50.2	49.8
+162	Toulouse, France	50.1	49.9
+163	Cairo, Egypt	50.0	50.0
+164	Rawalpindi, Pakistan	49.9	50.1
+165	Barcelona, Spain	49.8	50.2
+166	Hamilton, New Zealand	49.7	50.3
+167	Craiova, Romania	49.6	50.4
+168	Saskatoon, Canada	49.4	50.6
+169	Sacramento, CA, United States	49.4	50.6
+170	San Antonio, TX, United States	49.4	50.6
+171	Addis Ababa, Ethiopia	49.3	50.7
+172	New York, NY, United States	49.1	50.9
+173	Indore, India	48.8	51.2
+174	Milan, Italy	48.7	51.3
+175	Kharkiv, Ukraine	48.6	51.4
+176	Monterrey, Mexico	48.3	51.7
+177	Bali, Indonesia	48.2	51.8
+178	Auckland, New Zealand	48.2	51.8
+179	Cincinnati, OH, United States	48.1	51.9
+180	Newcastle, Australia	48.1	51.9
+181	Tunis, Tunisia	47.8	52.2
+182	Novosibirsk, Russia	47.7	52.3
+183	Panama City, Panama	47.7	52.3
+184	San Jose, CA, United States	47.7	52.3
+185	Bologna, Italy	47.6	52.4
+186	Istanbul, Turkey	47.5	52.5
+187	Liverpool, United Kingdom	47.5	52.5
+188	Moncton, Canada	47.3	52.7
+189	Honolulu, HI, United States	47.3	52.7
+190	Columbus, OH, United States	47.2	52.8
+191	Skopje, North Macedonia	46.9	53.1
+192	Bordeaux, France	46.8	53.2
+193	Charlotte, NC, United States	46.7	53.3
+194	Kolkata, India	46.6	53.4
+195	Gothenburg, Sweden	46.6	53.4
+196	Lucknow (Lakhnau), India	46.6	53.4
+197	Yekaterinburg, Russia	46.4	53.6
+198	Beirut, Lebanon	46.3	53.7
+199	Tampa, FL, United States	46.3	53.7
+200	Constanta, Romania	46.2	53.8
+201	Gold Coast, Australia	46.2	53.8
+202	Stockholm, Sweden	46.1	53.9
+203	Sarajevo, Bosnia And Herzegovina	45.9	54.1
+204	Edmonton, Canada	45.9	54.1
+205	St.Catharines, Canada	45.8	54.2
+206	Pattaya, Thailand	45.5	54.5
+207	Windsor, Canada	45.5	54.5
+208	Belfast, United Kingdom	45.4	54.6
+209	Glasgow, United Kingdom	45.3	54.7
+210	Denver, CO, United States	45.3	54.7
+211	Palermo, Italy	45.2	54.8
+212	Kiev (Kyiv), Ukraine	45.2	54.8
+213	Mumbai, India	45.0	55.0
+214	Brooklyn, NY, United States	45.0	55.0
+215	Kristiansand, Norway	44.8	55.2
+216	Frankfurt, Germany	44.7	55.3
+217	Cuenca, Ecuador	44.6	55.4
+218	Alexandria, Egypt	44.5	55.5
+219	Genoa, Italy	44.4	55.6
+220	Christchurch, New Zealand	44.3	55.7
+221	Bremen, Germany	44.3	55.7
+222	Melbourne, Australia	44.0	56.0
+223	Chisinau, Moldova	43.9	56.1
+224	Sheffield, United Kingdom	43.5	56.5
+225	Berlin, Germany	43.2	56.8
+226	Hyderabad, India	43.2	56.8
+227	Chandigarh, India	43.1	56.9
+228	Vaughan, Canada	42.9	57.1
+229	Leeds, United Kingdom	42.8	57.2
+230	Hamburg, Germany	42.6	57.4
+231	Mississauga, Canada	42.5	57.5
+232	Tirana, Albania	42.3	57.7
+233	Toronto, Canada	42.2	57.8
+234	Cologne, Germany	42.0	58.0
+235	Sofia, Bulgaria	41.9	58.1
+236	Bristol, United Kingdom	41.7	58.3
+237	Perth, Australia	41.7	58.3
+238	Colombo, Sri Lanka	41.6	58.4
+239	Leipzig, Germany	41.6	58.4
+240	Pune, India	41.6	58.4
+241	Iloilo, Philippines	41.5	58.5
+242	Kitchener, Canada	41.2	58.8
+243	Lodz, Poland	41.1	58.9
+244	Halifax, Canada	41.0	59.0
+245	Novi Sad, Serbia	40.9	59.1
+246	Hanover, Germany	40.9	59.1
+247	Bonn, Germany	40.5	59.5
+248	Bangkok, Thailand	40.5	59.5
+249	San Diego, CA, United States	40.4	59.6
+250	Austin, TX, United States	40.3	59.7
+251	Chennai, India	40.2	59.8
+252	Kochi, India	40.0	60.0
+253	Antwerp, Belgium	40.0	60.0
+254	Saint Petersburg, Russia	39.7	60.3
+255	Victoria, Canada	39.6	60.4
+256	Vancouver, Canada	39.6	60.4
+257	Limerick, Ireland	39.5	60.5
+258	Ankara, Turkey	39.5	60.5
+259	Boston, MA, United States	39.4	60.6
+260	Riverside, CA, United States	39.4	60.6
+261	Thiruvananthapuram, India	39.0	61.0
+262	Strasbourg, France	39.0	61.0
+263	Lviv, Ukraine	39.0	61.0
+264	Amman, Jordan	38.8	61.2
+265	Makati, Philippines	38.8	61.2
+266	Newcastle upon Tyne, United Kingdom	38.7	61.3
+267	Pittsburgh, PA, United States	38.5	61.5
+268	Riga, Latvia	38.5	61.5
+269	Florence, Italy	38.4	61.6
+270	Raleigh, NC, United States	38.3	61.7
+271	Kaunas, Lithuania	38.3	61.7
+272	Visakhapatnam, India	38.2	61.8
+273	Cardiff, United Kingdom	38.0	62.0
+274	Belgrade, Serbia	37.9	62.1
+275	Queretaro (Santiago de Querétaro), Mexico	37.6	62.4
+276	Hanoi, Vietnam	37.6	62.4
+277	Karlsruhe, Germany	37.5	62.5
+278	Brighton, United Kingdom	37.4	62.6
+279	Kingston, Canada	37.2	62.8
+280	Kathmandu, Nepal	37.0	63.0
+281	Navi Mumbai, India	36.9	63.1
+282	Moscow, Russia	36.8	63.2
+283	Jerusalem, Israel	36.8	63.2
+284	Calgary, Canada	36.7	63.3
+285	Varna, Bulgaria	36.7	63.3
+286	Lahore, Pakistan	36.4	63.6
+287	Cagliari, Italy	35.9	64.1
+288	Boise, ID, United States	35.7	64.3
+289	Cork, Ireland	35.6	64.4
+290	Brisbane, Australia	35.5	64.5
+291	Rabat, Morocco	35.4	64.6
+292	Dusseldorf, Germany	35.4	64.6
+293	Porto, Portugal	35.2	64.8
+294	Puerto Vallarta, Mexico	35.1	64.9
+295	Oulu, Finland	35.1	64.9
+296	Jaipur, India	35.1	64.9
+297	Guelph, Canada	34.9	65.1
+298	Nuremberg, Germany	34.9	65.1
+299	Budapest, Hungary	34.8	65.2
+300	Banja Luka, Bosnia And Herzegovina	34.4	65.6
+301	Madison, WI, United States	34.4	65.6
+302	Surat, India	34.2	65.8
+303	Oslo, Norway	34.1	65.9
+304	Astana (Nur-Sultan), Kazakhstan	33.9	66.1
+305	Sydney, Australia	33.9	66.1
+306	Aberdeen, United Kingdom	33.8	66.2
+307	Salt Lake City, UT, United States	33.7	66.3
+308	Lund, Sweden	33.5	66.5
+309	Penang, Malaysia	33.5	66.5
+310	Limassol, Cyprus	33.2	66.8
+311	Osaka, Japan	33.1	66.9
+312	Rotterdam, Netherlands	32.9	67.1
+313	Seville (Sevilla), Spain	32.7	67.3
+314	Wellington, New Zealand	32.4	67.6
+315	Hobart, Australia	32.3	67.7
+316	Guangzhou, China	32.3	67.7
+317	Split, Croatia	32.3	67.7
+318	Ahmedabad, India	32.1	67.9
+319	Havana, Cuba	32.0	68.0
+320	Amsterdam, Netherlands	32.0	68.0
+321	Valencia, Spain	31.8	68.2
+322	Vadodara, India	31.8	68.2
+323	Montreal, Canada	31.8	68.2
+324	Izmir, Turkey	31.4	68.6
+325	Stuttgart, Germany	31.4	68.6
+326	Islamabad, Pakistan	31.2	68.8
+327	Adelaide, Australia	31.1	68.9
+328	Dresden, Germany	31.0	69.0
+329	Edinburgh, United Kingdom	30.9	69.1
+330	Iasi, Romania	30.7	69.3
+331	Bratislava, Slovakia	30.6	69.4
+332	Shanghai, China	30.6	69.4
+333	Baku, Azerbaijan	30.5	69.5
+334	Nicosia, Cyprus	30.5	69.5
+335	Gdansk, Poland	30.5	69.5
+336	Kuwait City, Kuwait	30.4	69.6
+337	Freiburg im Breisgau, Germany	30.2	69.8
+338	Burlington, Canada	30.1	69.9
+339	Madrid, Spain	30.1	69.9
+340	Galway, Ireland	29.8	70.2
+341	Geneva, Switzerland	29.7	70.3
+342	Lisbon, Portugal	29.6	70.4
+343	Alicante, Spain	29.4	70.6
+344	Singapore, Singapore	29.2	70.8
+345	Bursa, Turkey	29.1	70.9
+346	Shenzhen, China	28.9	71.1
+347	Nizhny Novgorod, Russia	28.7	71.3
+348	Luxembourg, Luxembourg	28.7	71.3
+349	Beijing, China	28.4	71.6
+350	Ottawa, Canada	28.3	71.7
+351	Poznan, Poland	28.2	71.8
+352	Bucharest, Romania	28.2	71.8
+353	Markham, Canada	28.2	71.8
+354	Jeddah (Jiddah), Saudi Arabia	28.1	71.9
+355	Richmond Hill, Canada	28.0	72.0
+356	Vilnius, Lithuania	27.6	72.4
+357	Davao, Philippines	27.6	72.4
+358	Malaga, Spain	27.1	72.9
+359	Antalya, Turkey	27.1	72.9
+360	Trieste, Italy	27.0	73.0
+361	Tel Aviv-Yafo, Israel	27.0	73.0
+362	Brasov, Romania	26.9	73.1
+363	Vienna, Austria	26.9	73.1
+364	Riyadh, Saudi Arabia	26.8	73.2
+365	Copenhagen, Denmark	26.5	73.5
+366	Gent, Belgium	26.5	73.5
+367	Graz, Austria	26.3	73.7
+368	Wroclaw, Poland	26.3	73.7
+369	Lausanne, Switzerland	26.2	73.8
+370	Brno, Czech Republic	26.1	73.9
+371	Merida, Mexico	26.1	73.9
+372	Warsaw, Poland	26.1	73.9
+373	Mangalore, India	26.1	73.9
+374	Tbilisi, Georgia	25.9	74.1
+375	Oakville, Canada	25.8	74.2
+376	Krakow (Cracow), Poland	25.8	74.2
+377	Bergen, Norway	25.7	74.3
+378	Rijeka, Croatia	25.2	74.8
+379	Helsinki, Finland	24.8	75.2
+380	Aalborg, Denmark	24.8	75.2
+381	Seoul, South Korea	24.7	75.3
+382	Prague, Czech Republic	24.7	75.3
+383	Tallinn, Estonia	24.7	75.3
+384	Tokyo, Japan	24.6	75.4
+385	Chiang Mai, Thailand	24.5	75.5
+386	Timisoara, Romania	24.4	75.6
+387	Reykjavik, Iceland	23.8	76.2
+388	Coquitlam, Canada	23.3	76.7
+389	Stavanger, Norway	23.3	76.7
+390	Canberra, Australia	23.2	76.8
+391	Eindhoven, Netherlands	22.8	77.2
+392	Cluj-Napoca, Romania	22.5	77.5
+393	Zagreb, Croatia	22.4	77.6
+394	Tampere, Finland	22.3	77.7
+395	Irvine, CA, United States	22.3	77.7
+396	Groningen, Netherlands	22.1	77.9
+397	Yerevan, Armenia	21.9	78.1
+398	Ljubljana, Slovenia	21.8	78.2
+399	Basel, Switzerland	21.6	78.4
+400	Hong Kong, Hong Kong (China)	21.5	78.5
+401	The Hague (Den Haag), Netherlands	21.2	78.8
+402	Tartu, Estonia	21.0	79.0
+403	Muscat, Oman	20.1	79.9
+404	Trondheim, Norway	19.1	80.9
+405	Munich, Germany	18.8	81.2
+406	Zurich, Switzerland	18.3	81.7
+407	Eskisehir, Turkey	18.1	81.9
+408	Bern, Switzerland	17.7	82.3
+409	San Sebastian, Spain	16.9	83.1
+410	Dubai, United Arab Emirates	16.4	83.6
+411	Quebec City, Canada	16.1	83.9
+412	Sharjah, United Arab Emirates	15.9	84.1
+413	Ajman, United Arab Emirates	15.5	84.5
+414	Taipei, Taiwan (China)	15.1	84.9
+415	Doha, Qatar	14.5	85.5
+416	Abu Dhabi, United Arab Emirates	11.2	88.8
